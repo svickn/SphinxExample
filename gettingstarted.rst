@@ -12,7 +12,6 @@ Sphinx Example Requirements
 ------------
 The following are required to work with Sphinx Example:
 
-- Windows PowerShell
 - Git: `Git for Windows <https://git-scm.com/download/win>`__
 - Git Credential Manager: `Git Credential Manager for Windows <https://github.com/Microsoft/Git-Credential-Manager-for-Windows/releases/latest>`__ 
 - Python 2.X (2.7.9 or above, but not 3.X): `Python Releases for Windows <https://www.python.org/downloads/windows/>`__
